@@ -1,0 +1,12 @@
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.exe.config
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.exe
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.pdb
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.exe
+D:\Projects C#\mini_projeck_template\Smr_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.pdb
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.exe.config
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.exe
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.pdb
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.exe
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\bin\Debug\Smr_waitReady.pdb
+D:\Projects C#\mini_projeck_template\SmrBMW_waitReady\Smr_waitReady\obj\Debug\Smr_waitReady.csprojResolveAssemblyReference.cache
